@@ -57,8 +57,8 @@
 
 #### 		택배도난 감지 기기
 
-  ![img](file:///C:\Users\tla97\AppData\Local\Temp\Hnc\BinData\EMB000022c019f1.png)  
+​    ![dr1](C:\Users\tla97\Desktop\HARE\Pot\1.도난감지기기\dr1.bmp)
 
 #### 		택배 도난 모니터링 앱
 
-  ![img](file:///C:\Users\tla97\AppData\Local\Temp\Hnc\BinData\EMB000022c019f2.bmp)  
+  ![dr2](C:\Users\tla97\Desktop\HARE\Pot\1.도난감지기기\dr2.bmp)
