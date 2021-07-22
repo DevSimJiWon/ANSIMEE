@@ -57,9 +57,9 @@
 
 #### 		택배도난 감지 기기
 
-​    ![dr1](C:\Users\tla97\Desktop\HARE\Pot\1.도난감지기기\dr1.jpg)
+![dr1](https://user-images.githubusercontent.com/87285592/126587241-794d4faa-af96-4e5f-bbd3-6e5f2699816a.jpg)
 
 #### 		택배 도난 모니터링 앱
 
-![dr2](C:\Users\tla97\Desktop\HARE\Pot\1.도난감지기기\dr2.jpg)
+![dr2](https://user-images.githubusercontent.com/87285592/126587247-279adf23-4656-4b4c-a38d-2ec64c5bf9be.jpg)
 
