@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_1"
+        android:checkableBehavior="single">
+        <item android:id="@+id/id"
+            android:title="이미지 열람"
+            />
+    </group>
+    <group
+        android:id="@+id/menu_2"
+        android:checkableBehavior="single">
+        <item android:id="@+id/information"
+            android:title="도난내역 열람"
+            />
+    </group>
+    <group
+        android:id="@+id/menu_3"
+        android:checkableBehavior="single">
+        <item android:id="@+id/settings"
+        android:title="환경 설정"
+            />
+    </group>
+    <group
+        android:id="@+id/menu_4"
+        android:checkableBehavior="single">
+        <item android:id="@+id/logout"
+            android:title="로그아웃"
+            />
+    </group>
+</menu>
